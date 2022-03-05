@@ -1,1 +1,0 @@
-# degiskenler_ve_veri_tipleri
