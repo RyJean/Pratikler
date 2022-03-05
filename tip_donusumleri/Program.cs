@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TypeConversions
+namespace tip_donusumleri
 {
     class Program
     {
