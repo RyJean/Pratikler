@@ -1,0 +1,15 @@
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\bin\Debug\net6.0\recursive_extension_methods.exe
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\bin\Debug\net6.0\recursive_extension_methods.deps.json
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\bin\Debug\net6.0\recursive_extension_methods.runtimeconfig.json
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\bin\Debug\net6.0\recursive_extension_methods.dll
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\bin\Debug\net6.0\recursive_extension_methods.pdb
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.csproj.AssemblyReference.cache
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.AssemblyInfoInputs.cache
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.AssemblyInfo.cs
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.dll
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\refint\recursive_extension_methods.dll
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.pdb
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\recursive_extension_methods.genruntimeconfig.cache
+C:\Users\AnılCan\Desktop\Pratikler\recursive_extension_methods\obj\Debug\net6.0\ref\recursive_extension_methods.dll
