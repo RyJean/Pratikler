@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace algoritmaSorusu3
+namespace algoritma_odevi_3
 {
     class Program
     {
