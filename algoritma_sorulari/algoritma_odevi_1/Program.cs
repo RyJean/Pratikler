@@ -16,14 +16,13 @@ namespace algoritma_odevi_1
 
             for(int i = 0; i < n; i++){
                 array[i] = Convert.ToInt32(Console.ReadLine());
-
-                if(array[i] <= 0){
+            }
+	    if(array[i] <= 0){
                     Console.WriteLine("Pozitif bir sayı giriniz: ");
-                }
+            }
 
-                if(array[i] % 2 == 0){
+            if(array[i] % 2 == 0){
                     Console.WriteLine("{0} çifttir.", array[i]);
-                }
             }
         }
     }

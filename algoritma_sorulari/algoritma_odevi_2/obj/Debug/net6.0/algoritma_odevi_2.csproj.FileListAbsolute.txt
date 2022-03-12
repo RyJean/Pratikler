@@ -1,0 +1,15 @@
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\bin\Debug\net6.0\algoritma_odevi_2.exe
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\bin\Debug\net6.0\algoritma_odevi_2.deps.json
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\bin\Debug\net6.0\algoritma_odevi_2.runtimeconfig.json
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\bin\Debug\net6.0\algoritma_odevi_2.dll
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\bin\Debug\net6.0\algoritma_odevi_2.pdb
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.csproj.AssemblyReference.cache
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.AssemblyInfoInputs.cache
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.AssemblyInfo.cs
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.csproj.CoreCompileInputs.cache
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.dll
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\refint\algoritma_odevi_2.dll
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.pdb
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\algoritma_odevi_2.genruntimeconfig.cache
+C:\Users\AnılCan\Desktop\Pratikler\algoritma_sorulari\algoritma_odevi_2\obj\Debug\net6.0\ref\algoritma_odevi_2.dll
